@@ -10,7 +10,7 @@
     align-items: center;
     font-family: 'Josefin Sans', sans-serif;
 
-
+    z-index: 999; /*meken topbar eka hma ektma udin pennanwa.e nisa blog eka udin ynwa pennanne na*/
 }
 
 
